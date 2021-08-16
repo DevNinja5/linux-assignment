@@ -1,1 +1,4 @@
-echo "Shell scripting is FUN!"
+#!/bin/sh
+
+VAR="Shell scripting is FUN!"
+echo $VAR
